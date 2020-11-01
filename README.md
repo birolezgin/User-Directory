@@ -8,3 +8,6 @@ This application allows the user to view all of their employees at once so they 
 
 
 Heroku deployed link: https://shrouded-taiga-24963.herokuapp.com/
+
+
+![User-Directory-img](https://user-images.githubusercontent.com/60679626/97795502-3021e600-1bc4-11eb-97fe-a93da7ef97c5.PNG)
