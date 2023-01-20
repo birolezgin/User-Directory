@@ -39,5 +39,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "The idea of this application is an assignment to demonstrate an employee directory with React. It will require to break up the application's UI into components, manage the component state, and respond to the user events.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birolezgin/User-Directory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/birolezgin/User-Directory/issues"
+  },
+  "homepage": "https://github.com/birolezgin/User-Directory#readme"
 }
